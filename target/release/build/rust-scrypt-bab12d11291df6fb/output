@@ -1,0 +1,129 @@
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("2")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CC_x86_64-unknown-linux-gnu = None
+CC_x86_64_unknown_linux_gnu = None
+HOST_CC = None
+CC = None
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CFLAGS_x86_64-unknown-linux-gnu = None
+CFLAGS_x86_64_unknown_linux_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+running: "cc" "-O2" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-m64" "-I" "ext/scrypt" "-std=c99" "-Wall" "-Wextra" "-o" "/home/ynyesto/Blockchain/The Rekt Games/The Intern\'s Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out/ext/scrypt/crypto_scrypt.o" "-c" "ext/scrypt/crypto_scrypt.c"
+exit status: 0
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("2")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CC_x86_64-unknown-linux-gnu = None
+CC_x86_64_unknown_linux_gnu = None
+HOST_CC = None
+CC = None
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CFLAGS_x86_64-unknown-linux-gnu = None
+CFLAGS_x86_64_unknown_linux_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+running: "cc" "-O2" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-m64" "-I" "ext/scrypt" "-std=c99" "-Wall" "-Wextra" "-o" "/home/ynyesto/Blockchain/The Rekt Games/The Intern\'s Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out/ext/scrypt/crypto_scrypt_smix.o" "-c" "ext/scrypt/crypto_scrypt_smix.c"
+exit status: 0
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("2")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CC_x86_64-unknown-linux-gnu = None
+CC_x86_64_unknown_linux_gnu = None
+HOST_CC = None
+CC = None
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CFLAGS_x86_64-unknown-linux-gnu = None
+CFLAGS_x86_64_unknown_linux_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+running: "cc" "-O2" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-m64" "-I" "ext/scrypt" "-std=c99" "-Wall" "-Wextra" "-o" "/home/ynyesto/Blockchain/The Rekt Games/The Intern\'s Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out/ext/scrypt/sha256.o" "-c" "ext/scrypt/sha256.c"
+exit status: 0
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("2")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CC_x86_64-unknown-linux-gnu = None
+CC_x86_64_unknown_linux_gnu = None
+HOST_CC = None
+CC = None
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CFLAGS_x86_64-unknown-linux-gnu = None
+CFLAGS_x86_64_unknown_linux_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+running: "cc" "-O2" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-m64" "-I" "ext/scrypt" "-std=c99" "-Wall" "-Wextra" "-o" "/home/ynyesto/Blockchain/The Rekt Games/The Intern\'s Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out/ext/scrypt/insecure_memzero.o" "-c" "ext/scrypt/insecure_memzero.c"
+exit status: 0
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("2")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CC_x86_64-unknown-linux-gnu = None
+CC_x86_64_unknown_linux_gnu = None
+HOST_CC = None
+CC = None
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+CFLAGS_x86_64-unknown-linux-gnu = None
+CFLAGS_x86_64_unknown_linux_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+running: "cc" "-O2" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-m64" "-I" "ext/scrypt" "-std=c99" "-Wall" "-Wextra" "-o" "/home/ynyesto/Blockchain/The Rekt Games/The Intern\'s Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out/ext/scrypt/warnp.o" "-c" "ext/scrypt/warnp.c"
+cargo:warning=ext/scrypt/warnp.c: In function ‘warnp_setprogname’:
+cargo:warning=ext/scrypt/warnp.c:39:16: warning: implicit declaration of function ‘strdup’; did you mean ‘strcmp’? [-Wimplicit-function-declaration]
+cargo:warning=   39 |         name = strdup(p);
+cargo:warning=      |                ^~~~~~
+cargo:warning=      |                strcmp
+cargo:warning=ext/scrypt/warnp.c:39:14: warning: assignment to ‘char *’ from ‘int’ makes pointer from integer without a cast [-Wint-conversion]
+cargo:warning=   39 |         name = strdup(p);
+cargo:warning=      |              ^
+exit status: 0
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+AR_x86_64-unknown-linux-gnu = None
+AR_x86_64_unknown_linux_gnu = None
+HOST_AR = None
+AR = None
+TARGET = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("x86_64-unknown-linux-gnu")
+running: "ar" "crs" "/home/ynyesto/Blockchain/The Rekt Games/The Intern\'s Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out/libscrypt.a" "/home/ynyesto/Blockchain/The Rekt Games/The Intern\'s Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out/ext/scrypt/crypto_scrypt.o" "/home/ynyesto/Blockchain/The Rekt Games/The Intern\'s Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out/ext/scrypt/crypto_scrypt_smix.o" "/home/ynyesto/Blockchain/The Rekt Games/The Intern\'s Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out/ext/scrypt/sha256.o" "/home/ynyesto/Blockchain/The Rekt Games/The Intern\'s Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out/ext/scrypt/insecure_memzero.o" "/home/ynyesto/Blockchain/The Rekt Games/The Intern\'s Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out/ext/scrypt/warnp.o"
+exit status: 0
+TARGET = Some("x86_64-unknown-linux-gnu")
+cargo:rustc-link-lib=static=scrypt
+cargo:rustc-link-search=native=/home/ynyesto/Blockchain/The Rekt Games/The Intern's Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out
+cargo:rustc-link-search=native=/home/ynyesto/Blockchain/The Rekt Games/The Intern's Keystore/keystore-cracker/target/release/build/rust-scrypt-bab12d11291df6fb/out
+cargo:rustc-link-lib=static=scrypt
